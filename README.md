@@ -15,7 +15,7 @@
 7. `docker ps` 로 확인할 컨테이너 이름을 확인해 주세요.
 8. `python3 healthcheck.py --container-name <컨테이너 이름>` 으로 healthchecker 를 실행해 주세요.
 9. 해당 컨테이너가 정상적으로 "Running" 상태이면 유지, 그 외 상태이면 "Restart" 플래그로 재구동 시킵니다.
-
+10. `자원 할당`은 각 컨테이너 `deploy` 시 cpu 및 memory 제한과 reserve 를 설정해 두었습니다. 
 
 ## 사용자 서비스 확인 절차
 
