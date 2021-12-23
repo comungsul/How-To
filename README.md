@@ -32,3 +32,16 @@
 6. 따라서 해당 서비스가 작동하는 것은 쉽게 확인하실 수 있습니다.
 7. 오늘의 기술 스택에서는 `Prometheus` 등 문자열을 input 태그에 입력해서 출력되는 것을 확인할 수 있습니다. [LiC](https://github.com/comungsul/LiC) 컨테이너 스택은 현재 EC2 인스턴스로 돌고 있어서 Graphql 쿼리를 날려 해당 값을 확인할 수 있습니다.
 8. 기타 웹 서비스들은 각 버튼을 클릭해서 서비스를 사용할 수 있습니다. 
+
+## 참고 사항
+
+- Commit User 가 Ubuntu 로 나와있는 사용자는 홍성민 입니다.
+- 각 개인이 제작한 서비스에 해당하는 저장소는 별도로 참고 부탁드립니다.
+- [기술스택 확인 서비스](https://github.com/comungsul/LiC) - 홍성민
+- [healthchecker](https://github.com/comungsul/operations) - 홍성민
+- [메일 포털 서비스](https://github.com/comungsul/microservice-main) - 홍성민
+- [마켓 서비스](https://github.com/comungsul/shoppingmall) - 배준일
+- [스포츠 서비스](https://github.com/comungsul/football) - 한상우
+- [일정 관리 서비스](https://github.com/comungsul/dateScheduling) - 임혜진
+- [모니터링 서비스](https://github.com/comungsul/swarmprom) - 참고 및 적용 홍성민
+- [참고 노션 링크](https://github.com/comungsul/Notion)
